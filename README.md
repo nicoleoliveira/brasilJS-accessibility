@@ -1,4 +1,4 @@
-# brasilJS-accebility
+# brasilJS-accessibility
 
 Página Web contendo um formulário e uma caixa de diálogo acessíveis para leitores de tela.
 
